@@ -47,3 +47,4 @@ Overall, this is a simple, well-structured Snake game using SDL2, featuring soun
 
 
 >>OUTPUT:
+![Image](https://github.com/user-attachments/assets/0b196e4a-b279-4339-bdfe-bbb5eef24eb1)
